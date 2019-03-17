@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<layout version="1.0">
+    <marabraz_michell>
+        <update handle="page_two_columns_right"></update>
+    </marabraz_michell>
+
+    <refrence name="content">
+        <block type="core/template" name="example" template="example/welcome.phtml" />
+    </refrence>
+</layout>

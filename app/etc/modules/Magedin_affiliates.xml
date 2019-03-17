@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MagedIn_Affiliates>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Admin/>
+                <Mage_Core/>
+                <Mage_Sales/>
+            </depends>
+        </MagedIn_Affiliates>
+    </modules>
+</config>
