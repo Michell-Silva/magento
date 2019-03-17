@@ -9,6 +9,4 @@
 class MagedIn_Affiliates_Model_Resource_Setup extends Mage_Core_Model_Resource_Setup
 {
     use MagedIn_Affiliates_Trait_Data;
-
-
 }
